@@ -2,7 +2,8 @@ local gameID = game.GameId
 
 local scripts = {
     [2232507648] = "https://raw.githubusercontent.com/minh597/Egg/refs/heads/main/Loader/untitledAttackOnTitan.lua",
-    [210851291] = "https://raw.githubusercontent.com/minh597/Egg/refs/heads/main/Loader/BuildABoatForTreasure.lua"
+    [210851291] = "https://raw.githubusercontent.com/minh597/Egg/refs/heads/main/Loader/BuildABoatForTreasure.lua",
+    [111958650] = "https://raw.githubusercontent.com/minh597/Egg/refs/heads/main/Loader/ArsenalAimbot.lua"
 }
 
 if scripts[gameID] then
